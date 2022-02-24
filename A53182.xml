@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Observations upon the strange &amp; wonderful prophecies of Mr. John Gadbury, now prisoner in the gate-house for high trason with astrological predictions for the year, 1680 : shewing, from the choicest rules in the sidereal sciences, what grand revolutions or accidents are likely to happen in every month, respectively, in many parts of the world, especially, England, Scotland, &amp; Ireland : as also, the death of the Pope fore-told, etc.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53182</idno>
+            <idno type="STC">Wing O123C</idno>
+            <idno type="STC">ESTC R38885</idno>
+            <idno type="EEBO-CITATION">18185914</idno>
+            <idno type="OCLC">ocm 18185914</idno>
+            <idno type="VID">106949</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53182)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106949)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1128:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Observations upon the strange &amp; wonderful prophecies of Mr. John Gadbury, now prisoner in the gate-house for high trason with astrological predictions for the year, 1680 : shewing, from the choicest rules in the sidereal sciences, what grand revolutions or accidents are likely to happen in every month, respectively, in many parts of the world, especially, England, Scotland, &amp; Ireland : as also, the death of the Pope fore-told, etc.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Incorrectly identified on film as Wing O106.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gadbury, John, 1627-1704.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:106949:1"/>
+            <pb n="1" facs="tcp:106949:1" rendition="simple:additions"/>
+            <head>Obſervations upon the Strange &amp; Wonderful PROPHECIES OF Mr. <hi>John Gadbury,</hi> now Priſoner in the <hi>Gate-Houſe</hi> for High Traſon. WITH <hi>Aſtrological Predictions</hi> For the YEAR, 1680.</head>
+            <head type="sub">SHEWING, From the <hi>Choicest Rules</hi> in the <hi>Sidereal Sciences,</hi> What Grand <hi>Revolutions</hi> or <hi>Accidents</hi> are likely to happen in <hi>Every Month,</hi> reſpectively, in many Parts of the World: Eſpecially, <hi>ENGLAND, SCOTLAND,</hi> &amp; <hi>IRELAND.</hi> AS ALSO, The Death of the POPE Fore-told, <hi>&amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>Multi multa ſciunt, Sed nemo omnia.</q>
+            </epigraph>
+            <p>
+               <hi>COrruptio optimi eſt peſſima.</hi> As the Art of <hi>Aſtrology</hi> is in it ſelf of Noble Extraction, and a Nature ſublime: So has no Secular Science been more groſly abuſed, whil'ſt <hi>Fools</hi> Idolize it, <hi>Half-witted-Coxcombs</hi> Con<g ref="char:EOLhyphen"/>temn it, and <hi>Crafty Knaves</hi> Uſe it, as a Politick-Engine to boulſter up a <hi>Cheat,</hi> or colour their Miſchievous Deſignes.</p>
+            <p>When the Famous <hi>Popiſh Gun-Powder-Plot</hi> was diſcovered, there was one <hi>Greſham,</hi> (a <hi>Papiſt,</hi> and ſmall Pretender to the <hi>Mathematicks</hi>) was violently ſuſpected to have ſome Hand in't, becauſe he wrote ſo near the Matter in his <hi>Almanack.</hi> Young <hi>Noſtredame,</hi> to fulfill a certain Prophecy of his, That in ſuch a Year, ſuch a City ſhould be burnt, ſet it on Fire himſelf; and for the ſame, received his Juſt Reward.</p>
+            <p>I know not, whether we have any ſuch <hi>Cunning-Men</hi> among'ſt us at this day: Yet cannot but obſerve to the World, ſome notable Paſſages of a <hi>Notorious Aſtrologician,</hi> Mr. <hi>J. G.</hi> in his <hi>Almanack</hi> for the approaching Year, 1680.</p>
+            <p>This Gentleman, having (by <hi>what Art,</hi> I determine not) obtain'd, it ſeems, ſome Notions of certain Occurrences, that were deſign'd to happen; was <hi>ſo full</hi> of the Buſineſs, that at the firſt <hi>daſh,</hi> he <hi>breaks Bulk,</hi> and preſents us with theſe preſaging Lines in <hi>January.</hi>
+            </p>
+            <pb n="2" facs="tcp:106949:2"/>
+            <q>
+               <l>— <hi>Sly</hi> Hermes <hi>with Brisk</hi> Mavors <hi>Joyns</hi>
+               </l>
+               <l>
+                  <hi>In</hi> Aquary, <hi>[Which muſt not be forgot]</hi>
+               </l>
+               <l>
+                  <hi>That Treacherous Human Signe can ſpawn a Plot.</hi>
+               </l>
+            </q>
+            <p>A very pretty <hi>Predictive Him!</hi> And had not the <hi>Dragon</hi>'s-<hi>Tayl,</hi> in Con<g ref="char:EOLhyphen"/>junction with the <hi>Meal-Tubb,</hi> hindered, it might in due time, have ripen'd into a <hi>Prophecy.</hi>
+            </p>
+            <p>In <hi>February,</hi> he uſes this ſhrewd Expreſſion:</p>
+            <q>— <hi>All of a ſudden, methinks, I hear of DREADF<g ref="char:V">Ʋ</g>L Treachery Northward.</hi>
+            </q>
+            <p>I truſt, this may not prove altogether <hi>Oraculous;</hi> and yet, that which is not <hi>Improbable,</hi> to be ſure, is not <hi>Impoſſible.</hi> There are People, that would gladly make a Rebellion, if they cannot find it; nay, would purchaſe it at any Rate, to blanch their own black Purpoſes. And certainly, that which follows in the ſame Page, (if properly applyed to the <hi>Be-Jeſuited Bigots</hi> of the Bloody <hi>Ro<g ref="char:EOLhyphen"/>miſh Synagogue</hi>) is true to an Hairs-bredth; <hi>viz.</hi>
+            </p>
+            <q>
+               <hi>A Feaver of Religion, turns the ſooneſt into a Frenzy, and makes each Wight an Oreſtes.</hi>
+            </q>
+            <p>In the Month of <hi>March,</hi> he hath theſe words:</p>
+            <q>— <hi>I tell thee, O Clandeſtine Conſpirator! be thou who thou wilt, in mak<g ref="char:EOLhyphen"/>ing it thy Buſineſs to diſturb either thy Governours, or Country, thou doſt therein aſſuredly court thy own Deſtruction.</hi>
+            </q>
+            <p>This, in Defyance of <hi>Envy,</hi> and for the Credit of <hi>Art,</hi> and that <hi>Well-Expe<g ref="char:EOLhyphen"/>rienc'd Author,</hi> I will adventure to call a <hi>Prophecy.</hi> And, as Providence hath hi<g ref="char:EOLhyphen"/>therto ſince the Writing thereof, accompliſh't the ſame; ſo let it be our conti<g ref="char:EOLhyphen"/>nual Prayers, That it may ſtill be verifyed for the Future: That ſo our <hi>Au<g ref="char:EOLhyphen"/>thors</hi> Menaces in <hi>June,</hi> may be defeated; <hi>viz.</hi>
+            </p>
+            <q>
+               <hi>That Vice is like to be Rampant; and the Sons of Perfidiouſneſs, and Trea<g ref="char:EOLhyphen"/>chery, ſhould be prevalent againſt Men of Worth and Integrity.</hi>
+            </q>
+            <p>I ſhall not inſiſt upon that Paſſage, in the Second Page of his <hi>Prog;</hi> becauſe, 'tis probable, himſelf did not enough regard it; <hi>viz.</hi>
+            </p>
+            <q>
+               <hi>That there is a Spirit of Fr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ud abroad, which animates Men to entrap, en<g ref="char:EOLhyphen"/>ſnare, and betray one another: Yea, even their very Friends, and thoſe of the ſame Feather, and Party, with them; poſſibly, to the Ruine and Deſtruction of Many.</hi>
+            </q>
+            <p>But in the Third Page following, there is a <hi>Villainous Squinting Prognoſtick;</hi> that, perhaps, deſerves a <hi>Severer</hi> Animadverſion, than I can beſtow. He is ſpeak<g ref="char:EOLhyphen"/>ing of an Eclipſe of the <hi>Sun</hi> in <hi>Aries,</hi> happening the Twentyeth of <hi>March,</hi> 1680. Upon which, he drops theſe Inſolent Words:</p>
+            <q>
+               <hi>The Famous</hi> Cambden (I ſuppoſe, he means <hi>Cardan</hi>) <hi>hath TR<g ref="char:V">Ʋ</g>LY minded us of the Danger attending</hi> ENGLAND, <hi>from Eclipſes in</hi> Aries. — <hi>Si quando fuerit Eclipſis in ♈ ant ♌ ſignificat mortem Regis.</hi>
+            </q>
+            <p>In plain <hi>Engliſh</hi> thus, — <hi>If there ſhall be an Eclipſe in</hi> Aries (as this is) <hi>or</hi> Leo, <hi>it ſignifies the Death of the KING.</hi>
+            </p>
+            <p>And though he Tranſlate it a little more generally thus,—<hi>An Eclipſe of</hi> Sol <hi>in</hi> Aries <hi>or</hi> Leo, <hi>betokens the Death, or Downfal, of ſome great Emperour or Prince:</hi> Yet even this his <hi>Engliſh</hi> amounts to the ſame thing. For in the Words before, without any Occaſion given by his Author, who ſpeaks <hi>indefinitely,</hi> he had ap<g ref="char:EOLhyphen"/>propriated this to <hi>England,</hi> by naming <hi>That</hi> particularly: And goes on to Juſti<g ref="char:EOLhyphen"/>fy ſuch his Impudent Judgment, ſaying,</p>
+            <q>— The <hi>REASON THEREOF, IS NEAR AT HAND. Sol</hi> is, <hi>Rex Planetarum,</hi> as a Prince amongſt the Planets, <hi>&amp;c.</hi>
+            </q>
+            <p>
+               <hi>But we have a more ſure Word of Prophecy. — The Lord fruſtrateth the To<g ref="char:EOLhyphen"/>kens of the Lyars, and maketh Diviners mad, turneth Wiſe-Men back-wards, and maketh their Knowledge fooliſh,</hi> Iſa. 44.25.</p>
+            <p>However, the Conſideration hereof, is modeſtly ſubmitted to Authority; whilſt we only ſay: —</p>
+            <q>
+               <l>
+                  <hi>From ſuch Star-gazing Vizards of State,</hi>
+               </l>
+               <l>
+                  <hi>With their</hi> Popiſh <hi>Prognoſticks, Defend us:</hi>
+               </l>
+               <l>
+                  <hi>What they ſeem to Fore-tell they Create;</hi>
+               </l>
+               <l>
+                  <hi>And they cauſe all the Ills they pretend us.</hi>
+               </l>
+            </q>
+            <div type="predictions">
+               <pb n="3" facs="tcp:106949:2" rendition="simple:additions"/>
+               <p>And now, that we may Gratify the <hi>Reader</hi>'s Curioſity, that would needs be Pick-Locking the Cloſet of Fate; we ſhall preſent him with ſome Innocent Pre<g ref="char:EOLhyphen"/>dictions on each of the <hi>Twelve Months,</hi> of the enſuing Year, 1680. deduced from as Authentick Grounds in Art, as any Well-willer to the <hi>Mathematicks</hi> in the Town can boaſt of. And firſt of —</p>
+               <div n="1" type="month">
+                  <head>January.</head>
+                  <p>THE Year begins with Lofty Tow'ring Winds; which, 'tis hoped, may blow all the <hi>Jeſuits</hi> into <hi>Lubber-Land.</hi> Towards the End of the Month, their <hi>Popiſh-Plot</hi> begins to <hi>ſtink</hi> worſe than his <hi>Holyneſs,</hi> when he was Roaſted the other Evening at <hi>Temple-Bar,</hi> with a <hi>Catt</hi> in his Belly. Some New Diſ<g ref="char:EOLhyphen"/>coveries are made, and freſh Animoſities and Accuſations break forth: And not a few Conſcious <hi>Traytors,</hi> who thought themſelves ſecure, are brought upon the Stage. Nor will all their Intereſt, be able longer to ſcrew them from Incenſed Juſtice.</p>
+               </div>
+               <div n="2" type="month">
+                  <head>February.</head>
+                  <p>
+                     <hi>MArs,</hi> and the <hi>Sun,</hi> meet in Conſultation. 'Tis a Good Omen, when Au<g ref="char:EOLhyphen"/>thority, and Power, are United. What great Martialiſt is he, that now receives a Check? or languiſhing with the Tortures of a Guilty Conſcience, Reſigns his Breath? The General Peace, which ſeem'd hovering over <hi>Europe,</hi> is now upon the Wing; and threatens once more, to leave <hi>Chriſtendom</hi> to the Rage of <hi>Bellona;</hi> though divers prudent, moderate Stateſmen, uſe all their En<g ref="char:EOLhyphen"/>deavours, to Court her longer Stay. Good News arrives about the Twenty-Seventh Day, to our Merchants, from the <hi>South-Weſt;</hi> and curious ſeaſonable Weather, concludes the Month.</p>
+               </div>
+               <div n="3" type="month">
+                  <head>March.</head>
+                  <p>
+                     <hi>MArch</hi> comes in like a <hi>Lion:</hi> And Mens Actions are as rough and tem<g ref="char:EOLhyphen"/>peſtuous, as the Weather. There are Clouds gathering, which may poſſibly Eclipſe the <hi>French Grandeur.</hi> More petty Counter-Plots are Hatched, but vaniſh in Smoak. And the deviſes of Miſchief, are Entrapped in their own Pit-falls. Little <hi>March</hi> Duſt is to be expected. Lofty debate in Su<g ref="char:EOLhyphen"/>pream Counſels; and preparations every where making, for War; and yet e<g ref="char:EOLhyphen"/>very body pretends for Peace. The <hi>Swede</hi> Suffers: <hi>Brandenburgh</hi> is Active: The <hi>Empire</hi> labours under the Male-effects of pernitious Councels. How long, Oh ye Illuſtrious Princes of <hi>Europe,</hi> will you ſuffer your ſelves to be Mana<g ref="char:EOLhyphen"/>ged and abuſed by that peſtilent Society, which ſeeks your Ruine, and to enſlave you, all to their Grand <hi>Eccleſiaſtical Idol?</hi>
+                  </p>
+               </div>
+               <div n="4" type="month">
+                  <head>April.</head>
+                  <p>THis is generally a moiſt Moneth, and perhaps ſome may Weep <hi>Sanguine Tears.</hi> What New Plot, or Stratagem is this, which is now turn'd up Trump? The Trade of <hi>London</hi> increaſes, in ſpite of all her <hi>Popiſh</hi> Enemies, who have vow'd her Deſtruction. News Arrives from <hi>Ireland:</hi> Great Things are upon the Wheel: Murders, and Caſualties, more than ordinarily fre<g ref="char:EOLhyphen"/>quent</p>
+               </div>
+               <div n="5" type="month">
+                  <head>May.</head>
+                  <p>
+                     <hi>SOl,</hi> and <hi>Jupiter,</hi> are in Conjunction; ſome prejudice happens to an Emi<g ref="char:EOLhyphen"/>nent Judge. <hi>Fiat Juſtitia, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ruat Mundus:</hi> What think you, if the <hi>Pope</hi> ſhould about this time, take a turn to <hi>Purgatory.</hi> 'Tis moſt probable, that Death, or at leaſt, Sickneſs, Seizes his <hi>Holy-ſhip.</hi> 'Tis generally, a Crazy Time; and Men are neither well in their Bodys, nor well in their Wits. What fooliſh Rumour is that, now buzz'd abroad? Believe it not. 'Tis the Firſt-born of the <hi>Father of Lies.</hi>
+                  </p>
+               </div>
+               <div n="6" type="month">
+                  <pb facs="tcp:106949:3" rendition="simple:additions"/>
+                  <head>June.</head>
+                  <p>O <hi>London! London! God</hi> in Heaven Bleſs thee! The <hi>Popes</hi> Bleſſing, or Curſe, ſignifies not three leaps of a Louſe: But the Mercies of Wick<g ref="char:EOLhyphen"/>ed, are Cruel. Be Wiſe, and be Obedient; and, in this thy Day, know the Time of thy Viſitation. May the good Hand of providence, protect thee from Caſualties. The High and Mighty, are in a Strait; and the <hi>Flower de-Luces,</hi> are withered with the too fervent Kiſſes of the Sun. If Old <hi>More</hi> be whetting his Hatchet to Cut down a Tall <hi>Cedar</hi> or two in <hi>Europe,</hi> who can help it? <hi>Fiat voluntas Dei.</hi>
+                  </p>
+               </div>
+               <div n="7" type="month">
+                  <head>July.</head>
+                  <p>FRequent Showers diſturb the Hay-makers. A new Diſeaſe ſweeps many into their Grave: Fires are Threatned. Let our <hi>Metropolis</hi> be careful, to prevent them. Ah <hi>Jockey!</hi> What's the matter? Is it thy fault, or thy unfortune. Let Pragmatical, or Traiterous Spirits, look to it. <hi>Raro Anteceden<g ref="char:EOLhyphen"/>tum.</hi> &amp;c.</p>
+               </div>
+               <div n="8" type="month">
+                  <head>Auguſt.</head>
+                  <p>ABout the Fourteenth Day, expect great Rains and Thunder. Nor are mens minds more Calm, than the air; but agitated with the Hurri<g ref="char:EOLhyphen"/>canes of violent Paſſions. The Twentyeth Day, is of fatal Conſequence to ſome affairs: And, I fear, a very bad Harveſt. Cheats, Robberies, Quar<g ref="char:EOLhyphen"/>rels, Duels, and Treacherous wicked Actions, make up too great a part of this Moneths Buſineſs.</p>
+               </div>
+               <div n="9" type="month">
+                  <head>September.</head>
+                  <p>FIne pleaſant Weather, and affairs generally tending to an hopeful Poſture; yet ſome Murmurings are heard. <hi>London,</hi> Remember <hi>Sixty Six,</hi> and the Curſed Inſtruments of that Desolation Good News from <hi>Italy.</hi> But tell us, O <hi>Apollo!</hi> What Tydings is brought about this Time, in a Pacquet from <hi>France?</hi>
+                  </p>
+               </div>
+               <div n="10" type="month">
+                  <head>October.</head>
+                  <p>Tis now <hi>Fall of the Leafe;</hi> and all the Fig-leaves wherewith the <hi>Jeſuite,</hi> and <hi>Popiſh</hi> Emiſſaries, cover'd and adorn'd their Villainous Plots, are blown away, and left them to the view of all the World, in their primitive. What mean all Almanack-writers, to leave Juſtice <hi>Godfreys</hi> Martyrdome out of their Calenders? He deſerves it, far better than ſome of thoſe <hi>Popiſh Raga<g ref="char:EOLhyphen"/>muffins,</hi> wherewith they blot their Pages.</p>
+               </div>
+               <div n="11" type="month">
+                  <head>November.</head>
+                  <p>THough our Author leave out the <hi>Gun-power-Plot;</hi> yet I poſitively predict, it ſhall be Remembered. The Weather grows Cold, as the Charity of the Times. The Seaſon admits of little Action: but there are the Devil, and all the Councel on foot; but <hi>Malium Conſilium Conſultori peſſimum.</hi>
+                  </p>
+               </div>
+               <div n="12" type="month">
+                  <head>December.</head>
+                  <p>SHarp Froſt, the moſt part of Moneth, Lies in a abundance, ſpread abroad. The Stars are buſy in mingling their Rays; whence Men ſhould be Active too. Notable Actions will ſhortly manifeſt themſelves. An Eminent perſon is ſnatcht away; and the Year ſeems to end but untowardly.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>J. H,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
